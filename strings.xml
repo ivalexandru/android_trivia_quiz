@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="question_declaration">Declaratia independenta</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+
+
+
+    <string name="correct_answer"> that\`s correct </string>
+    <string name="wrong_answer"> that wrong </string>
+    <string name="question_religion">  freedom of religion </string>
+    <string name="question_government"> journalists are branch </string>
+    <string name="question_government_feds"> congress does not  </string>
+    <string name="question_amendments"> ceva amendament  </string>
+    <string name="next_text">next</string>
+</resources>
